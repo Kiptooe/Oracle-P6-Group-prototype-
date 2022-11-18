@@ -1,12 +1,12 @@
 # Oracle-P6-Group-prototype-
 This is a repository containing UI Designs and Slides presented by my group in the Oracle Primavera P6 Project Management Bootcamp Hackathon.
 
-# SDG's Addressed
+## SDG's Addressed
 SDG 1 - No Poverty
 SDG 2 - Zero Hunger
 SDG 8 - Decent Work and Economic Growth
 
-#Proposed solution
+## Proposed solution
 My team wasn't able to use the P6 tool due to difficulties accessing it. However, we understand how projects are scheduled using P6 and used that knowledge to manually schedule our project. Such as:
 
 1. Naming our project
